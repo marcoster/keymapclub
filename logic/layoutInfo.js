@@ -91,6 +91,15 @@ levelDictionaries = {
 		'lvl6' : 'jqzx',
 		'lvl7' : alphabet,
 	},
+    graphite_marco : {
+		'lvl1' : 'nrtshaei',
+		'lvl2' : 'gy',
+		'lvl3' : 'wzjf',
+		'lvl4' : 'mcvk',
+		'lvl5' : 'ldou',
+		'lvl6' : 'bqxp',
+		'lvl7' : alphabet,
+    },
 	custom : {
 		'lvl1' : '',
 		'lvl2' : '',
@@ -99,8 +108,7 @@ levelDictionaries = {
 		'lvl5' : '',
 		'lvl6' : '',
 		'lvl7' : alphabet,
-	},
-
+	}
 }
 
 
@@ -543,6 +551,45 @@ var layoutMaps = {
 		'Slash' : '.',
 		'shiftLayer' : 'default',
 	},
+	graphite_marco : {
+		'Minus' : "-",
+		'Equal' : "=",
+		'KeyQ' : "b",
+		'KeyW' : 'l',
+		'KeyE' : 'd',
+		'KeyR' : 'w',
+		'KeyT' : 'z',
+		'KeyY' : 'j',
+		'KeyU' : 'f',
+		'KeyI' : 'o',
+		'KeyO' : 'u',
+		'KeyP' : ';',
+		'BracketLeft' : '[',
+		'BracketRight' : ']',
+		'Backslash' : '\\',
+		'KeyA' : 'n',
+		'KeyS' : 'r',
+		'KeyD' : 't',
+		'KeyF' : 's',
+		'KeyG' : 'g',
+		'KeyH' : 'y',
+		'KeyJ' : 'h',
+		'KeyK' : 'a',
+		'KeyL' : 'e',
+		'Semicolon' : 'i',
+		'Quote' : "'",
+		'KeyZ' : 'q',
+		'KeyX' : 'x',
+		'KeyC' : 'm',
+		'KeyV' : 'c',
+		'KeyB' : 'v',
+		'KeyN' : 'k',
+		'KeyM' : 'p',
+		'Comma' : ',',
+		'Period' : '.',
+		'Slash' : '/',
+		'shiftLayer' : 'default',
+	},
 	custom : {
 		'Minus' : " ",
 		'Equal' : " ",
@@ -581,5 +628,6 @@ var layoutMaps = {
 		'Period' : ' ',
 		'Slash' : ' ',
 		'shiftLayer' : 'default',
-	},
+	}
+
 }
